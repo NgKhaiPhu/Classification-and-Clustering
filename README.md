@@ -8,3 +8,6 @@ This is my submission for the Lab assignment 3 in Data mining class. The reposit
 ## K-means clustering
 - The dataset contains 1500 data points in a 2d space that belongs to 3 clusters
 - Implement the K-means clustering algorithm utilizing numpy
+
+## References
+- [Wikipedia, ID3 algorithm](https://en.wikipedia.org/wiki/ID3_algorithm)
